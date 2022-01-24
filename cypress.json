@@ -1,4 +1,6 @@
 {
-	"baseUrl": "http://localhost:3000",
-	"videoRecording": false
+	"baseUrl": "http://localhost:8080",
+	"videoRecording": false,
+  "viewportWidth": 1220,
+  "viewportHeight": 900
 }
