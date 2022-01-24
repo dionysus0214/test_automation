@@ -1,4 +1,4 @@
-# jest_test
+# test_automation
 
 ## Project setup
 ```
